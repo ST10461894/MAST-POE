@@ -59,7 +59,7 @@ The overall average price is displayed here:
 <Text style={styles.infoText}>Average Price: R{averagePrice.toFixed(2)}</Text>
 
 5. Styles:
-•	I added a new style for the average price per section (averagePrice), and this is where you can change the color of the text.
+•	I added a new style for the average price per section (averagePrice), and this is wherethe text color in changed.
 
 averagePrice: {
   fontSize: 16,
