@@ -1,6 +1,5 @@
 Youtube link:
 
-Changes Overview:
 
 Changes Overview:
 Adding average price per course
@@ -99,7 +98,7 @@ In this block, filteredItems holds either all the menu items or a subset filtere
 •	If the activeFilter state is set (e.g., to 'Starter', 'Main', or 'Dessert'), the list will only display items that match that course type.
 •	If no filter is active (i.e., activeFilter is null), all the menu items passed from the previous screen will be displayed.
 Each item is rendered using the renderItem function, which displays its name, description, and price.
-Key Steps:
+Key Takeaways:
 1.	The menuItems passed from the previous screen are retrieved via route.params.
 2.	The filteredItems are then derived based on the active filter (if any).
 3.	The FlatList component renders the filtered menu items dynamically.
