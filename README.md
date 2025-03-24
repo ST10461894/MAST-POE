@@ -2,7 +2,7 @@ Youtube link:https://www.youtube.com/watch?v=pBpBC4Z0UyU
 
 
 Changes Overview:
-Adding average price per course
+Adding average price per course.
 1.	Added logic to calculate the average price per section (for each course: Starter, Main, Dessert).
 2.	Added a new section under each course to display the average price specific to that course.
 3.	Updated styles for the new "average price" text under each section.
